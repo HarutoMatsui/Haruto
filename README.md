@@ -1,2 +1,0 @@
-# Haruto
-testing
